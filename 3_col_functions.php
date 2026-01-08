@@ -1,6 +1,4 @@
 <?php
-
-<?php
 /* start width x height x length (Custom fields + pricing) */
 /**
  * Custom carpet dimensions pricing (category-limited)
